@@ -1,4 +1,4 @@
-# Solfe ZMK Config
+# Sofle ZMK Config
 
 #  keymap editor
 https://nickcoutsos.github.io/keymap-editor/
